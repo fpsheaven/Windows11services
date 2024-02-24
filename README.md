@@ -1,6 +1,5 @@
 
-# Project Title
-
+# Windows 11 23H2 services.
 A compiled spreadsheet about Windows11 23H2 services.
 
 As of 24/02/2024, the sheet is not yet complete. 
